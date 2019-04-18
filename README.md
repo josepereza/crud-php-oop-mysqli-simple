@@ -1,3 +1,7 @@
+![Alt text](crud-php-oop-simple1.png)
+![Alt text](crud-php-oop-simple2.png)
+
+
 Simple Create, Read, Update, Delete (CRUD) in PHP & MySQL using Object Oriented Programming (OOP)
 ========
 
